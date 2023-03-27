@@ -1,8 +1,7 @@
 fastapi
 uvicorn
 pydantic
-spacy
-spacy-transformers
+spacy[transformers]
 bs4
 markdown
 pandas
