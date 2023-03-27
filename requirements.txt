@@ -4,3 +4,4 @@ pydantic
 spacy
 bs4
 markdown
+pandas
