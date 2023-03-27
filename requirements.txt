@@ -2,6 +2,7 @@ fastapi
 uvicorn
 pydantic
 spacy
+spacy-transformers
 bs4
 markdown
 pandas
