@@ -2,3 +2,5 @@ fastapi
 uvicorn
 pydantic
 spacy
+bs4
+markdown
