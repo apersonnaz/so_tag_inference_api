@@ -1,0 +1,21 @@
+{
+  "labels":[
+    "php",
+    "jquery",
+    "iphone",
+    "android",
+    "css",
+    "node.js",
+    "python",
+    "html",
+    "c",
+    "c++",
+    "objective-c",
+    "java",
+    "c#",
+    "ios",
+    "javascript",
+    ".net"
+  ],
+  "threshold":0.5
+}
